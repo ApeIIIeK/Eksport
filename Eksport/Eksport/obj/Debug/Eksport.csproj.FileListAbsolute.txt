@@ -1,0 +1,13 @@
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\bin\Debug\Eksport.exe.config
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\bin\Debug\Eksport.exe
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\bin\Debug\Eksport.pdb
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.csproj.AssemblyReference.cache
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.Form1.resources
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.Properties.Resources.resources
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.csproj.GenerateResource.cache
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.csproj.CoreCompileInputs.cache
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.exe
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.pdb
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.Chart1.resources
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Leonid Fon Bom\Desktop\Долги\Eksport\Eksport\obj\Debug\Eksport.csproj.ResolveComReference.cache
